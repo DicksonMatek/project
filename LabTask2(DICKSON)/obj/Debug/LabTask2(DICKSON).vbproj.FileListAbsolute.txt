@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2015\Projects\LabTask2(DICKSON)\LabTask2(DICKSON)\bin\Debug\LabTask2(DICKSON).exe.config
+c:\users\user\documents\visual studio 2015\Projects\LabTask2(DICKSON)\LabTask2(DICKSON)\bin\Debug\LabTask2(DICKSON).exe
+c:\users\user\documents\visual studio 2015\Projects\LabTask2(DICKSON)\LabTask2(DICKSON)\bin\Debug\LabTask2(DICKSON).pdb
+c:\users\user\documents\visual studio 2015\Projects\LabTask2(DICKSON)\LabTask2(DICKSON)\bin\Debug\LabTask2(DICKSON).xml
+c:\users\user\documents\visual studio 2015\Projects\LabTask2(DICKSON)\LabTask2(DICKSON)\obj\Debug\LabTask2(DICKSON).vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\LabTask2(DICKSON)\LabTask2(DICKSON)\obj\Debug\LabTask2_DICKSON_.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\LabTask2(DICKSON)\LabTask2(DICKSON)\obj\Debug\LabTask2_DICKSON_.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\LabTask2(DICKSON)\LabTask2(DICKSON)\obj\Debug\LabTask2(DICKSON).vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\LabTask2(DICKSON)\LabTask2(DICKSON)\obj\Debug\LabTask2(DICKSON).exe
+c:\users\user\documents\visual studio 2015\Projects\LabTask2(DICKSON)\LabTask2(DICKSON)\obj\Debug\LabTask2(DICKSON).xml
+c:\users\user\documents\visual studio 2015\Projects\LabTask2(DICKSON)\LabTask2(DICKSON)\obj\Debug\LabTask2(DICKSON).pdb
+c:\users\user\documents\visual studio 2015\Projects\LabTask2(DICKSON)\LabTask2(DICKSON)\obj\Debug\LabTask2_DICKSON_.StuFrom.resources
+c:\users\user\documents\visual studio 2015\Projects\LabTask2(DICKSON)\LabTask2(DICKSON)\obj\Debug\LabTask2_DICKSON_.TchFrom.resources
